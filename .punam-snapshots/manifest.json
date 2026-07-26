@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "snapshots": [
+    {
+      "id": "2026-07-26-10-23-06-gnb6qe",
+      "name": "Auto recovery point after bulk changes",
+      "createdAt": "2026-07-26T10:23:06.921Z",
+      "reason": "auto-bulk-change",
+      "fileCount": 49,
+      "totalSize": 148807,
+      "workspaceName": "GemSpot_KE",
+      "workspacePath": "/home/user/Desktop/GemSpot_KE"
+    }
+  ]
+}
